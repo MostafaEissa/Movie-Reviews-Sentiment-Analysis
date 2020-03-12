@@ -1,6 +1,6 @@
 # specific directories
 .ipynb_checkpoints/
-Data/
+movie_reviews/
 
 
 # Zip files
